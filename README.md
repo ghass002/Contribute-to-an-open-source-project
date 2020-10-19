@@ -1,6 +1,6 @@
 # Contribute to an open source project
 
-## Steps to contribute to an open source project on GITHUB:##
+## Steps to contribute to an open source project on GITHUB:
 
 
 1. Fork the project into your GITHUB profile
