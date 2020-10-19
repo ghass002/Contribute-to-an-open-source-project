@@ -11,8 +11,8 @@ Steps to contribute to an open source project on GITHUB:
 - Apply contribute guidelines to your code to be ready for master branch
 - take a look at the difference between the original code and your code: git diff
 - Make sure you are in sync with Master by switching to Master and pull request: 
-      1. git checkout master
-      2. git pull
+      * git checkout master
+      * git pull
 - If you are already up to date switch to the contributing branch and set the branch to sync with master:
       - git branch --set-upstream-to=origin/master <name-branch>
 - Submit these changes: 
